@@ -218,6 +218,66 @@ nav{
     margin-right: 200px;
     margin-left:200px ;
 }
+.fenis{
+    display: flex;
+    justify-content: space-evenly;
+     margin-top: 40px;
+     margin-right: 200px;
+     margin-left: 200px;
+     font-weight: bold;
+}
+
+.ckk{
+    border: 1px solid tan;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(237, 241, 245);
+    border: none;
+}
+
+.ckk2{
+border: 2px solid thistle;
+padding: 20px;
+border-radius: 10px;
+background-color: rgb(141, 232, 202);
+border: none;
+}
+
+.cen{
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.inp{
+    width: 40%;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    margin-left: 27%;
+    
+    border: 1px solid rgb(249, 249, 249)
+    border-radius: 3px;
+    
+    
+    
+
+    }
+
+    .btm{
+    
+        margin-top: 20px;
+        padding: 10px;
+        background-color:green ;
+        justify-content: center;
+    }
+    .mtn{
+        text-align: center;
+    }
+ 
 
 
 
